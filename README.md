@@ -23,6 +23,7 @@ This is a text editor application.
 To use this application:
 1. Run "npm install"
 2. Run "npm start"
+
 ## Usage
 
 This Text Editor app utilizes: 
@@ -38,7 +39,8 @@ This Text Editor app utilizes:
 - Webpack
 
 ## Tests
-n/a
+
+N/A
 
 ## License
 
@@ -66,8 +68,8 @@ OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## Contributions
-If you would like to contribute to this project please either fork or clone the repository. Once you have cloned or forked the repository, you can begin making changes.
 
+If you would like to contribute to this project please either fork or clone the repository. Once you have cloned or forked the repository, you can begin making changes.
 
 ## Questions
 Github: https://github.com/c-wrenn
