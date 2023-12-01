@@ -5,13 +5,16 @@
 
 This is a Text Editor application. The purpose of Challenge 19 is to build a progressive web application.
 
+![Text](image.png)
+![Install](image-1.png)
+
+Deployment link: https://jate-text-editing.onrender.com
 
 ## Table of Contents
 
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Tests](#tests)
 - [License](#license)
 - [Contributions](#contributions)
 - [Questions](#questions)
@@ -23,6 +26,7 @@ This is a text editor application.
 To use this application:
 1. Run "npm install"
 2. Run "npm start"
+
 
 ## Usage
 
@@ -37,10 +41,6 @@ This Text Editor app utilizes:
 - JavaScript
 - JSON
 - Webpack
-
-## Tests
-
-N/A
 
 ## License
 
