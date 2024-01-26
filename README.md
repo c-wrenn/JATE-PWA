@@ -3,7 +3,7 @@
 
 ## Description
 
-This is a Text Editor application. The purpose of Challenge 19 is to build a progressive web application.
+Welcome to JATE, a progressive web application. This innovative web application offers a seamless and responsive interaction. Our PWA utilizes reliable web technologies to ensure a fast, reliable, and engaging user experience. 
 
 ![Text](image.png)
 ![Install](image-1.png)
